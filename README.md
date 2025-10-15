@@ -197,7 +197,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-<img width="1334" height="666" alt="image" src="https://github.com/user-attachments/assets/abfe429f-8dac-4239-a47a-e181e267a26b" />
+<img width="1334" height="666" alt="image" src="https://github.com/user-attachments/assets/9becd13b-dd47-4c69-ad9d-ab0ae84ec824" />
+
 
 
 
